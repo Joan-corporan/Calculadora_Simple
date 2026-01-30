@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+<!-- Menu principal -->
+<menuitem id="menu_modulo_joan_root"
+name="modulo_joan"
+sequence="10"/>
+</odoo>
